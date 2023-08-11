@@ -27,6 +27,6 @@ Include 5 file:
 + *P2_Data_Exploring.ipynb*
 + *P3_Data_Preprocessing.ipynb*
 + *P4_Data_Visualizing.ipynb*
-+ *P5_Data_Modeling-Evaluating*
++ *P5_Data_Modeling-Evaluating.ipynb*
 
 
