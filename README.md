@@ -5,7 +5,7 @@ This projects is implemented again by myself. I did it in a team in term I of th
 ## 0. Individual introduction:
 | Full Name                  |   Student's ID   | Student's Email                    |      Individual Email              |
 |:--------------------------:|:----------------:|:----------------------------------:|:----------------------------------:|
-| Nguyễn Hoàng Thịnh         |  20120587        | 20120587@student.hcmus.edu.vn      | zeroxt2002@gmail.com               |
+| Nguyễn Hoàng Thịnh         |  20120587        | 20120587@student.hcmus.edu.vn      | hoangthinhstkt@gmail.com               |
 
 ## 1. Project's information: 
 This Project will give and handle the real problem by data, through the processes: Collection, Exploring, Preprocessing, Visualizing, Modeling - Evaluating.  
